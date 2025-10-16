@@ -1,6 +1,6 @@
 <!-- 🌟 Gurdeep Singh - Business Intelligence & Data Analytics Portfolio -->
 
-(assets/hero-banner.png)
+
 
 # 👋 Hi, I'm **Gurdeep Singh**
 *Business Intelligence & Data Analytics Professional | MBA, MS-IT*
